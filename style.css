@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(130, 165, 85);
+    color: rgb(39, 48, 97);
+}
+
+h1{
+    color: rgb(85, 56, 35);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+h1:hover{
+    color: aquamarine;
+}
+
+img{
+    height: 200px;
+    padding: 70px;
+}
+
+.dazai{
+    background-color: cornsilk;
+    padding: 20px;
+    margin: 20px;
+}
